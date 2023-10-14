@@ -13,6 +13,7 @@
 
 body {
     margin-top: 100px;
+    background-color: whitesmoke;
 }
 
 ul{
@@ -33,4 +34,9 @@ h1{
 input{
     border: none;
     width: 100%;
+}
+
+i {
+    float: right;
+    cursor: pointer;
 }
